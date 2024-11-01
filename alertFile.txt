@@ -1,0 +1,109 @@
+# Fake AWS Keys
+aws_access_key_id_1 = "AKIAIOSFODNN7EXAMPLE1"
+aws_secret_access_key_1 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY1"
+aws_access_key_id_2 = "AKIAIOSFODNN7EXAMPLE2"
+aws_secret_access_key_2 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY2"
+aws_access_key_id_3 = "AKIAIOSFODNN7EXAMPLE3"
+aws_secret_access_key_3 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY3"
+aws_access_key_id_4 = "AKIAIOSFODNN7EXAMPLE4"
+aws_secret_access_key_4 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY4"
+aws_access_key_id_5 = "AKIAIOSFODNN7EXAMPLE5"
+aws_secret_access_key_5 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY5"
+aws_access_key_id_6 = "AKIAIOSFODNN7EXAMPLE6"
+aws_secret_access_key_6 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY6"
+aws_access_key_id_7 = "AKIAIOSFODNN7EXAMPLE7"
+aws_secret_access_key_7 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY7"
+aws_access_key_id_8 = "AKIAIOSFODNN7EXAMPLE8"
+aws_secret_access_key_8 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY8"
+aws_access_key_id_9 = "AKIAIOSFODNN7EXAMPLE9"
+aws_secret_access_key_9 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY9"
+aws_access_key_id_10 = "AKIAIOSFODNN7EXAMPLE10"
+aws_secret_access_key_10 = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY10"
+
+# Fake GitHub Tokens
+github_token_1 = "ghp_12345exampletokenforgithub123451"
+github_token_2 = "ghp_12345exampletokenforgithub123452"
+github_token_3 = "ghp_12345exampletokenforgithub123453"
+github_token_4 = "ghp_12345exampletokenforgithub123454"
+github_token_5 = "ghp_12345exampletokenforgithub123455"
+github_token_6 = "ghp_12345exampletokenforgithub123456"
+github_token_7 = "ghp_12345exampletokenforgithub123457"
+github_token_8 = "ghp_12345exampletokenforgithub123458"
+github_token_9 = "ghp_12345exampletokenforgithub123459"
+github_token_10 = "ghp_12345exampletokenforgithub123450"
+
+# Fake Google API Keys
+google_api_key_1 = "AIzaSyD4K-dummyexamplekey123456781"
+google_api_key_2 = "AIzaSyD4K-dummyexamplekey123456782"
+google_api_key_3 = "AIzaSyD4K-dummyexamplekey123456783"
+google_api_key_4 = "AIzaSyD4K-dummyexamplekey123456784"
+google_api_key_5 = "AIzaSyD4K-dummyexamplekey123456785"
+google_api_key_6 = "AIzaSyD4K-dummyexamplekey123456786"
+google_api_key_7 = "AIzaSyD4K-dummyexamplekey123456787"
+google_api_key_8 = "AIzaSyD4K-dummyexamplekey123456788"
+google_api_key_9 = "AIzaSyD4K-dummyexamplekey123456789"
+google_api_key_10 = "AIzaSyD4K-dummyexamplekey123456780"
+
+# Fake Slack Tokens
+slack_token_1 = "xoxb-1234-5678-abcdef1234561"
+slack_token_2 = "xoxb-1234-5678-abcdef1234562"
+slack_token_3 = "xoxb-1234-5678-abcdef1234563"
+slack_token_4 = "xoxb-1234-5678-abcdef1234564"
+slack_token_5 = "xoxb-1234-5678-abcdef1234565"
+slack_token_6 = "xoxb-1234-5678-abcdef1234566"
+slack_token_7 = "xoxb-1234-5678-abcdef1234567"
+slack_token_8 = "xoxb-1234-5678-abcdef1234568"
+slack_token_9 = "xoxb-1234-5678-abcdef1234569"
+slack_token_10 = "xoxb-1234-5678-abcdef1234560"
+
+# Fake Private Keys
+private_key_1 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey1
+-----END PRIVATE KEY-----
+"""
+private_key_2 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey2
+-----END PRIVATE KEY-----
+"""
+private_key_3 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey3
+-----END PRIVATE KEY-----
+"""
+private_key_4 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey4
+-----END PRIVATE KEY-----
+"""
+private_key_5 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey5
+-----END PRIVATE KEY-----
+"""
+private_key_6 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey6
+-----END PRIVATE KEY-----
+"""
+private_key_7 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey7
+-----END PRIVATE KEY-----
+"""
+private_key_8 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey8
+-----END PRIVATE KEY-----
+"""
+private_key_9 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey9
+-----END PRIVATE KEY-----
+"""
+private_key_10 = """
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALfakeprivatekey10
+-----END PRIVATE KEY-----
+"""
